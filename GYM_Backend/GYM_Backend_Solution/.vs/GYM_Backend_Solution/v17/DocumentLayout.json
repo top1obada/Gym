@@ -1,0 +1,1144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\GYM_Backend_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\gym\\gymsubscription\\gymsubscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\gym\\gymsubscription\\scaddgymsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\gym\\gymsubscription\\dbgymsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\gymsubscription\\insertgymsubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\gymsubscription\\gymsubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\gymsubscription\\basegymsubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\gymsubscriptiontype\\dbgymsubscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\fitnesstype\\insertfitnesstypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\fitnesstype\\fitnesstypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\fitnesstype\\basefitnesstypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\fitnesstype\\gymfitnesstype\\gymfitnesstypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\gymsubscriptiontypelimit\\gymsubscriptiontypelimitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\gymsubscriptiontypelimit\\insertgymsubscriptiontypelimitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\insertgymsubscriptiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\gymsubscriptiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\basegymsubscriptiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gymsubscriptiontype\\insertgymsubscriptiontypewithlimitsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\gymsubscriptiontype\\gymsubscriptiontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\gymsubscriptiontype\\scaddgymsubscriptiontypewithlimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\fitnesstype\\fitnesstypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\fitnesstype\\scaddfitnesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\fitnesstype\\dbfitnesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\gym\\gymcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\login\\dblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\insertgymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\gym\\sccreategym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\login\\session\\scsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\login\\scloginbyrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\login\\sclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\servicesinterfaces\\get\\igetallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\servicesinterfaces\\find\\ifindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\servicesinterfaces\\check\\checkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F462ACD-D98D-411E-9358-AF24C305B106}|..\\src\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\projectsservices\\passwordservices\\passwordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\session\\dbsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\connection\\person\\dbperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\creategymretrivingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\login\\loginsendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\user\\gymuser\\gymuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\gymbranch\\updategymbranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\updategymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\gym\\gymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\insertcompletedpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\insertcompletedpersonretrivingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\insertpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\person\\basepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\contactinformation\\insertcontactinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\contactinformation\\updatecontactinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3974CD99-7040-43F6-8A8A-BAC60D68A2BD}|..\\src\\Gym_Backend_BusinessTier\\Gym_Backend_BusinessTier.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_businesstier\\services\\person\\sccreatecompletedpersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\address\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\login\\userloginretrivingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\login\\tokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\login\\session\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\address\\insertaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\address\\updateaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\person\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\controllers\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\contactinformation\\contactinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\user\\gymuser\\clscreategymuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B819C3-E16E-48F3-8331-4CEF33A36BF8}|..\\..\\Shared\\GYM_DTO\\GYM_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\gym_dto\\object\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524813F-65FE-4E07-A5D2-B359A02BBDA9}|..\\src\\Gym_Backend_DTO\\Gym_Backend_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_dto\\object\\user\\systemuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524813F-65FE-4E07-A5D2-B359A02BBDA9}|..\\src\\Gym_Backend_DTO\\Gym_Backend_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_dto\\login\\userloginrequirementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524813F-65FE-4E07-A5D2-B359A02BBDA9}|..\\src\\Gym_Backend_DTO\\Gym_Backend_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_dto\\login\\userloginretrivingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524813F-65FE-4E07-A5D2-B359A02BBDA9}|..\\src\\Gym_Backend_DTO\\Gym_Backend_DTO.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_dto\\login\\session\\systemusersessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B9AE54-0D09-42EE-96FF-1A0DA2AFD22B}|..\\src\\GYM_Backend_API_Interfaces\\GYM_Backend_API_Interfaces.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_api_interfaces\\middlewares\\exceptionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F462ACD-D98D-411E-9358-AF24C305B106}|..\\src\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\projectsservices\\jwtservices\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F462ACD-D98D-411E-9358-AF24C305B106}|..\\src\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\projectsservices\\jwtservices\\jwttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F462ACD-D98D-411E-9358-AF24C305B106}|..\\src\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\projectsservices\\refreshtokenservices\\refreshtokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14347A65-6C74-43EA-B0D9-D24BD180EB26}|..\\src\\GYM_Backend_Data_Layer\\GYM_Backend_Data_Layer.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_backend\\src\\gym_backend_data_layer\\setting\\connectionsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbGymSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Gym\\GymSubscription\\dbGymSubscription.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Gym\\GymSubscription\\dbGymSubscription.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Gym\\GymSubscription\\dbGymSubscription.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Gym\\GymSubscription\\dbGymSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:55:27.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertGymSubscriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\InsertGymSubscriptionDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\InsertGymSubscriptionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\InsertGymSubscriptionDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\InsertGymSubscriptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:53:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GymSubscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymSubscription\\GymSubscriptionController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymSubscription\\GymSubscriptionController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymSubscription\\GymSubscriptionController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymSubscription\\GymSubscriptionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:56:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scAddGymSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\GymSubscription\\scAddGymSubscription.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\GymSubscription\\scAddGymSubscription.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\GymSubscription\\scAddGymSubscription.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\GymSubscription\\scAddGymSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:55:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Program.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:43:16.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GymSubscriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\GymSubscriptionDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\GymSubscriptionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\GymSubscriptionDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\GymSubscriptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:52:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseGymSubscriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\BaseGymSubscriptionDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\BaseGymSubscriptionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\BaseGymSubscriptionDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymSubscription\\BaseGymSubscriptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T01:15:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbGymSubscriptionType.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\GymSubscriptionType\\dbGymSubscriptionType.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\GymSubscriptionType\\dbGymSubscriptionType.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\GymSubscriptionType\\dbGymSubscriptionType.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\GymSubscriptionType\\dbGymSubscriptionType.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:38:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertFitnessTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\InsertFitnessTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\InsertFitnessTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\InsertFitnessTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\InsertFitnessTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:04:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FitnessTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\FitnessTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\FitnessTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\FitnessTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\FitnessTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:03:30.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseFitnessTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\BaseFitnessTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\BaseFitnessTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\BaseFitnessTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\BaseFitnessTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T01:13:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GymFitnessTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\GymFitnessType\\GymFitnessTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\GymFitnessType\\GymFitnessTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\FitnessType\\GymFitnessType\\GymFitnessTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\FitnessType\\GymFitnessType\\GymFitnessTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:12:23.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GymSubscriptionTypeLimitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\GymSubscriptionTypeLimitDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\GymSubscriptionTypeLimitDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\GymSubscriptionTypeLimitDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\GymSubscriptionTypeLimitDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:35:33.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InsertGymSubscriptionTypeLimitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\InsertGymSubscriptionTypeLimitDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\InsertGymSubscriptionTypeLimitDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\InsertGymSubscriptionTypeLimitDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeLimit\\InsertGymSubscriptionTypeLimitDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:36:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsertGymSubscriptionTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:33:16.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GymSubscriptionTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\GymSubscriptionTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:32:30.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseGymSubscriptionTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\BaseGymSubscriptionTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\BaseGymSubscriptionTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\BaseGymSubscriptionTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\BaseGymSubscriptionTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T01:04:02.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InsertGymSubscriptionTypeWithLimitsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeWithLimitsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeWithLimitsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeWithLimitsDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\GymSubscriptionType\\InsertGymSubscriptionTypeWithLimitsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:37:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GymSubscriptionTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\GymSubscriptionType\\GymSubscriptionTypeController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\GymSubscriptionType\\GymSubscriptionTypeController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\GymSubscriptionType\\GymSubscriptionTypeController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\GymSubscriptionType\\GymSubscriptionTypeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:42:05.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "scAddGymSubscriptionTypeWithLimits.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\GymSubscriptionType\\scAddGymSubscriptionTypeWithLimits.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\GymSubscriptionType\\scAddGymSubscriptionTypeWithLimits.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\GymSubscriptionType\\scAddGymSubscriptionTypeWithLimits.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\GymSubscriptionType\\scAddGymSubscriptionTypeWithLimits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:40:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FitnessTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\FitnessType\\FitnessTypeController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\FitnessType\\FitnessTypeController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\FitnessType\\FitnessTypeController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\FitnessType\\FitnessTypeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:09:35.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "scAddFitnessType.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\FitnessType\\scAddFitnessType.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\FitnessType\\scAddFitnessType.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\FitnessType\\scAddFitnessType.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\FitnessType\\scAddFitnessType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:08:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbFitnessType.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\FitnessType\\dbFitnessType.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\FitnessType\\dbFitnessType.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\FitnessType\\dbFitnessType.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\FitnessType\\dbFitnessType.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:05:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InsertGymDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\InsertGymDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\InsertGymDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\InsertGymDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\InsertGymDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:16:45.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GymController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Gym\\GymController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:14:39.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGetAllService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Get\\IGetAllService.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Get\\IGetAllService.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Get\\IGetAllService.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Get\\IGetAllService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:12:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CheckService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Check\\CheckService.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Check\\CheckService.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Check\\CheckService.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Check\\CheckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:12:18.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "scCreateGym.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\scCreateGym.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\scCreateGym.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\scCreateGym.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Gym\\scCreateGym.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:10:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "scLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLogin.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLogin.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLogin.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:12:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Login\\dbLogin.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Login\\dbLogin.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Login\\dbLogin.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Login\\dbLogin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T13:06:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PasswordEncrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\PasswordServices\\PasswordEncrypt.cs",
+              "RelativeDocumentMoniker": "..\\src\\ProjectsServices\\PasswordServices\\PasswordEncrypt.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\PasswordServices\\PasswordEncrypt.cs",
+              "RelativeToolTip": "..\\src\\ProjectsServices\\PasswordServices\\PasswordEncrypt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:23:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "scLoginByRefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLoginByRefreshToken.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLoginByRefreshToken.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLoginByRefreshToken.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\scLoginByRefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:56:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "scSession.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\Session\\scSession.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\Session\\scSession.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Login\\Session\\scSession.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Login\\Session\\scSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:41:27.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbSession.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Session\\dbSession.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Session\\dbSession.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Session\\dbSession.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Session\\dbSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:39:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Person\\dbPerson.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Person\\dbPerson.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Connection\\Person\\dbPerson.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Connection\\Person\\dbPerson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:39:20.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFindService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Find\\IFindService.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Find\\IFindService.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Find\\IFindService.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\ServicesInterfaces\\Find\\IFindService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T21:27:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateGymRetrivingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\CreateGymRetrivingDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\CreateGymRetrivingDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\CreateGymRetrivingDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\CreateGymRetrivingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:02:16.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GymDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:24:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GymUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\GymUser\\GymUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\User\\GymUser\\GymUserDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\GymUser\\GymUserDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\User\\GymUser\\GymUserDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:43:18.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateGymDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\UpdateGymDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\UpdateGymDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\UpdateGymDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\UpdateGymDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:26:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateGymBranchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymBranch\\UpdateGymBranchDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymBranch\\UpdateGymBranchDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Gym\\GymBranch\\UpdateGymBranchDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Gym\\GymBranch\\UpdateGymBranchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T01:24:17.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginSenData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\LoginSenData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Login\\LoginSenData.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\LoginSenData.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Login\\LoginSenData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:36:33.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InsertCompletedPersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:59:41.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InsertCompletedPersonRetrivingsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonRetrivingsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonRetrivingsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonRetrivingsDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertCompletedPersonRetrivingsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:36:21.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InsertPersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertPersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertPersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\InsertPersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\InsertPersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:32:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdatePersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\UpdatePersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\UpdatePersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\UpdatePersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\UpdatePersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:43:02.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\PersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\PersonDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:52:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BasePersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\BasePersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\BasePersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Person\\BasePersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Person\\BasePersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T20:23:16.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "InsertContactInformationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\InsertContactInformationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\InsertContactInformationDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\InsertContactInformationDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\InsertContactInformationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:54:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateContactInformationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\UpdateContactInformationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\UpdateContactInformationDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\UpdateContactInformationDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\UpdateContactInformationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:57:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "scCreateCompletedPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Person\\scCreateCompletedPersonService.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_BusinessTier\\Services\\Person\\scCreateCompletedPersonService.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_BusinessTier\\Services\\Person\\scCreateCompletedPersonService.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_BusinessTier\\Services\\Person\\scCreateCompletedPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:41:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\AddressDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\AddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:13:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserLoginRetrivingsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:47:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TokensDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\TokensDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Login\\TokensDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\TokensDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Login\\TokensDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T23:18:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SessionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\Session\\SessionDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Login\\Session\\SessionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Login\\Session\\SessionDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Login\\Session\\SessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:24:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "InsertAddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\InsertAddressDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\InsertAddressDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\InsertAddressDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\InsertAddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:54:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateAddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\UpdateAddressDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\UpdateAddressDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\Address\\UpdateAddressDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\Address\\UpdateAddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:56:28.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Person\\PersonController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Person\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Person\\PersonController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Person\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:42:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Login\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Login\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\Controllers\\Login\\LoginController.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\Controllers\\Login\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T23:13:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ContactInformationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\ContactInformationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\ContactInformationDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\ContactInformation\\ContactInformationDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\ContactInformation\\ContactInformationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:12:33.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "clsCreateGymUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\GymUser\\clsCreateGymUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\User\\GymUser\\clsCreateGymUserDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\GymUser\\clsCreateGymUserDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\User\\GymUser\\clsCreateGymUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:25:24.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\GYM_DTO\\Object\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\GYM_DTO\\Object\\User\\UserDTO.cs",
+              "RelativeToolTip": "..\\..\\Shared\\GYM_DTO\\Object\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:58:43.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SystemUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Object\\User\\SystemUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_DTO\\Object\\User\\SystemUserDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Object\\User\\SystemUserDTO.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_DTO\\Object\\User\\SystemUserDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T13:38:01.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserLoginRequirementsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\UserLoginRequirementsDTO.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_DTO\\Login\\UserLoginRequirementsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\UserLoginRequirementsDTO.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_DTO\\Login\\UserLoginRequirementsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T19:43:01.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserLoginRetrivingsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_DTO\\Login\\UserLoginRetrivingsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T19:33:13.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SystemUserSessionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\Session\\SystemUserSessionDTO.cs",
+              "RelativeDocumentMoniker": "..\\src\\Gym_Backend_DTO\\Login\\Session\\SystemUserSessionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\Gym_Backend_DTO\\Login\\Session\\SystemUserSessionDTO.cs",
+              "RelativeToolTip": "..\\src\\Gym_Backend_DTO\\Login\\Session\\SystemUserSessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:27:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ExceptionLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\MiddleWares\\ExceptionLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_API_Interfaces\\MiddleWares\\ExceptionLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_API_Interfaces\\MiddleWares\\ExceptionLoggingMiddleware.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_API_Interfaces\\MiddleWares\\ExceptionLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T23:51:47.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "..\\src\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "RelativeToolTip": "..\\src\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T20:58:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RefreshTokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\RefreshTokenServices\\RefreshTokenHelper.cs",
+              "RelativeDocumentMoniker": "..\\src\\ProjectsServices\\RefreshTokenServices\\RefreshTokenHelper.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\RefreshTokenServices\\RefreshTokenHelper.cs",
+              "RelativeToolTip": "..\\src\\ProjectsServices\\RefreshTokenServices\\RefreshTokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:44:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "JWTTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "RelativeDocumentMoniker": "..\\src\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "RelativeToolTip": "..\\src\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T20:58:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ConnectionSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Setting\\ConnectionSetting.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Backend_Data_Layer\\Setting\\ConnectionSetting.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Backend\\src\\GYM_Backend_Data_Layer\\Setting\\ConnectionSetting.cs",
+              "RelativeToolTip": "..\\src\\GYM_Backend_Data_Layer\\Setting\\ConnectionSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T12:52:31.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
