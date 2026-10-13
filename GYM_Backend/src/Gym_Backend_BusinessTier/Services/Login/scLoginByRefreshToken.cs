@@ -9,11 +9,11 @@ using Gym_Backend_DTO.Login;
 
 namespace Gym_Backend_BusinessTier.Services.Login
 {
-    public class scLoginByRefreshTokenService : IFindService<string, clsSystemUserLoginRetrivingsDTO?>
+    public class scSystemUserLoginByRefreshTokenService : IFindService<string, clsSystemUserLoginRetrivingsDTO?>
     {
         public async Task<clsSystemUserLoginRetrivingsDTO?> Find(string hashedRefreshToken)
         {
-            return await dbLogin.LoginByRefreshToken(hashedRefreshToken);
+            return await dbSystemLogin.SystemUserLoginByRefreshToken(hashedRefreshToken);
         }
     }
 }

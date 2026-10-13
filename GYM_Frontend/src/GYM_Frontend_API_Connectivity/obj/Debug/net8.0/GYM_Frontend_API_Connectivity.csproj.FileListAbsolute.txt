@@ -1,0 +1,16 @@
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.AssemblyInfoInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.AssemblyInfo.cs
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.csproj.CoreCompileInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.sourcelink.json
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\bin\Debug\net8.0\GYM_Frontend_API_Connectivity.deps.json
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\bin\Debug\net8.0\GYM_Frontend_API_Connectivity.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\bin\Debug\net8.0\GYM_Frontend_API_Connectivity.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\bin\Debug\net8.0\GYM_DTO.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\bin\Debug\net8.0\GYM_DTO.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.csproj.AssemblyReference.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Fron.53515D13.Up2Date
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\refint\GYM_Frontend_API_Connectivity.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\GYM_Frontend_API_Connectivity.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_FrontEnd\src\GYYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity\obj\Debug\net8.0\ref\GYM_Frontend_API_Connectivity.dll

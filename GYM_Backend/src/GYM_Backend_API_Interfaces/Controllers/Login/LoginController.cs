@@ -15,25 +15,26 @@ namespace GYM_Backend_API_Interfaces.Controllers.Login
     [ApiController]
     public class LoginController : ControllerBase
     {
-        private readonly scLoginService _scLoginService;
+        private readonly scSystemUserLoginService _scSystemUserLoginService;
         private readonly IConfiguration _configuration;
         private readonly scSessionService _scSessionService;
-        private readonly scLoginByRefreshTokenService _scLoginByRefreshTokenService;
+        private readonly scSystemUserLoginByRefreshTokenService _scSystemUserLoginByRefreshTokenService;
 
-        public LoginController(IConfiguration configuration, scLoginService scLoginService, scSessionService scSession,
-            scLoginByRefreshTokenService scLoginByRefreshTokenService)
+        public LoginController(IConfiguration configuration, scSystemUserLoginService scLoginService, scSessionService scSession,
+            scSystemUserLoginByRefreshTokenService scLoginByRefreshTokenService)
         {
-            _scLoginService = scLoginService;
+            _scSystemUserLoginService = scLoginService;
             _configuration = configuration;
             _scSessionService = scSession;
-            _scLoginByRefreshTokenService = scLoginByRefreshTokenService;
+            _scSystemUserLoginByRefreshTokenService = scLoginByRefreshTokenService;
         }
 
-        [HttpPost("Login")]
+        [HttpPost("SystemUser")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
         [ProducesResponseType(401)]
-        public async Task<ActionResult<clsTokensDTO>> Login([FromBody] clsLoginRequirementsDTO SystemUserLoginRequirementsDTO)
+        public async Task<ActionResult<clsTokensDTO>> SystemUserLogin([FromBody] clsSystemUserLoginRequirementsDTO
+            SystemUserLoginRequirementsDTO)
         {
             if (!ModelState.IsValid)
             {
@@ -46,7 +47,7 @@ namespace GYM_Backend_API_Interfaces.Controllers.Login
                 return BadRequest("Either Email or Phone Number must be provided.");
             }
 
-            var userResult = await _scLoginService.Find(SystemUserLoginRequirementsDTO);
+            var userResult = await _scSystemUserLoginService.Find(SystemUserLoginRequirementsDTO);
 
             if (userResult == null)
             {
@@ -76,22 +77,27 @@ namespace GYM_Backend_API_Interfaces.Controllers.Login
             };
 
             var jwtTemplate = clsJWTHelper.GetToken(_configuration);
+
             string jwtToken = clsJWTHelper.GenerateJwtToken(claims, jwtTemplate);
 
             var tokens = new clsTokensDTO
             {
-                JWTToken = jwtToken,
-                RefreshToken = rawRefreshToken
+                JWT_Token = jwtToken,
+                Refresh_Token = rawRefreshToken
             };
 
             return Ok(tokens);
         }
 
-        [HttpPost("RefreshTokenLogin")]
+
+
+
+
+        [HttpPost("SystemUser/RefreshToken")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
         [ProducesResponseType(401)]
-        public async Task<ActionResult<string>> RefreshTokenLogin([FromBody] string refreshToken)
+        public async Task<ActionResult<string>> SystemUserRefreshTokenLogin([FromBody] string refreshToken)
         {
             if (string.IsNullOrWhiteSpace(refreshToken))
             {
@@ -99,7 +105,7 @@ namespace GYM_Backend_API_Interfaces.Controllers.Login
             }
 
             string hashedRefreshToken = clsRefreshTokenHelper.HashToken(refreshToken);
-            var userResult = await _scLoginByRefreshTokenService.Find(hashedRefreshToken);
+            var userResult = await _scSystemUserLoginByRefreshTokenService.Find(hashedRefreshToken);
 
             if (userResult == null)
             {

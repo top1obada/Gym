@@ -9,9 +9,9 @@ namespace GYM_DTO.Login
     public class clsTokensDTO
     {
 
-        public string? JWTToken { get; set; }
+        public string? JWT_Token { get; set; }
 
-        public string? RefreshToken { get; set; }
+        public string? Refresh_Token { get; set; }
 
     }
 }

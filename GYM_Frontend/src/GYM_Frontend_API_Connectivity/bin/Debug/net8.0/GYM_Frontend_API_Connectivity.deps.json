@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GYM_Frontend_API_Connectivity/1.0.0": {
+        "dependencies": {
+          "GYM_DTO": "1.0.0"
+        },
+        "runtime": {
+          "GYM_Frontend_API_Connectivity.dll": {}
+        }
+      },
+      "GYM_DTO/1.0.0": {
+        "runtime": {
+          "GYM_DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GYM_Frontend_API_Connectivity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GYM_DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

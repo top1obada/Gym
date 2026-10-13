@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Frontend_Projects_Controls/1.0.0": {
+        "runtime": {
+          "Frontend_Projects_Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frontend_Projects_Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

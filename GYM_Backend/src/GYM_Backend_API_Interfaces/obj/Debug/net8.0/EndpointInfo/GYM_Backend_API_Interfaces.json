@@ -1,0 +1,1069 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GYM_Backend_API_Interfaces",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/FitnessType/Create": {
+      "post": {
+        "tags": [
+          "FitnessType"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertFitnessTypeDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertFitnessTypeDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertFitnessTypeDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Gym/Create": {
+      "post": {
+        "tags": [
+          "Gym"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsCreateGymDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsCreateGymDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsCreateGymDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsCreateGymRetrivingDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsCreateGymRetrivingDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsCreateGymRetrivingDTO"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/GymSubscription/Create": {
+      "post": {
+        "tags": [
+          "GymSubscription"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/GymSubscriptionPayment/Create": {
+      "post": {
+        "tags": [
+          "GymSubscriptionPayment"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionPaymentDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionPaymentDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionPaymentDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/GymSubscriptionType/CreateWithLimits": {
+      "post": {
+        "tags": [
+          "GymSubscriptionType"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionTypeWithLimitsDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionTypeWithLimitsDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertGymSubscriptionTypeWithLimitsDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Login": {
+      "post": {
+        "tags": [
+          "Login"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsSystemUserLoginRequirementsDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsSystemUserLoginRequirementsDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsSystemUserLoginRequirementsDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsTokensDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsTokensDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsTokensDTO"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Login/RefreshToken": {
+      "post": {
+        "tags": [
+          "Login"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Person/Create": {
+      "post": {
+        "tags": [
+          "Person"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertCompletedPersonDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertCompletedPersonDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/clsInsertCompletedPersonDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsInsertCompletedPersonRetrivingsDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsInsertCompletedPersonRetrivingsDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/clsInsertCompletedPersonRetrivingsDTO"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      },
+      "clsAddressDTO": {
+        "type": "object",
+        "properties": {
+          "CityID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "TownName": {
+            "type": "string",
+            "nullable": true
+          },
+          "Details": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsCreateGymDTO": {
+        "required": [
+          "Gym",
+          "GymBranchDTO",
+          "GymFitnessTypes",
+          "GymUser"
+        ],
+        "type": "object",
+        "properties": {
+          "Gym": {
+            "$ref": "#/components/schemas/clsInsertGymDTO"
+          },
+          "GymBranchDTO": {
+            "$ref": "#/components/schemas/clsInsertGymBranchDTO"
+          },
+          "GymUser": {
+            "$ref": "#/components/schemas/clsInsertGymUserOnGenerateGymDTO"
+          },
+          "GymFitnessTypes": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsCreateGymRetrivingDTO": {
+        "type": "object",
+        "properties": {
+          "GymID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "BranchID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertAddressDTO": {
+        "type": "object",
+        "properties": {
+          "CityID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "TownName": {
+            "type": "string",
+            "nullable": true
+          },
+          "Details": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertCompletedPersonDTO": {
+        "required": [
+          "Address",
+          "ContactInformation",
+          "Person"
+        ],
+        "type": "object",
+        "properties": {
+          "Person": {
+            "$ref": "#/components/schemas/clsInsertPersonDTO"
+          },
+          "ContactInformation": {
+            "$ref": "#/components/schemas/clsInsertContactInformationDTO"
+          },
+          "Address": {
+            "$ref": "#/components/schemas/clsInsertAddressDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertCompletedPersonRetrivingsDTO": {
+        "type": "object",
+        "properties": {
+          "PersonID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "ContactInformationID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "AddressID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertContactInformationDTO": {
+        "required": [
+          "PhoneNumber"
+        ],
+        "type": "object",
+        "properties": {
+          "PhoneNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Email": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertFitnessTypeDTO": {
+        "required": [
+          "FitnessTypeName"
+        ],
+        "type": "object",
+        "properties": {
+          "FitnessTypeName": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymBranchDTO": {
+        "required": [
+          "Address",
+          "GymBranchName"
+        ],
+        "type": "object",
+        "properties": {
+          "GymID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "GymBranchName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Address": {
+            "$ref": "#/components/schemas/clsAddressDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymDTO": {
+        "required": [
+          "CreatedByUserID",
+          "GymName"
+        ],
+        "type": "object",
+        "properties": {
+          "GymName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "CreatedByUserID": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymSubscriptionDTO": {
+        "required": [
+          "GymID",
+          "GymSubscriptionTypeID",
+          "StartDate"
+        ],
+        "type": "object",
+        "properties": {
+          "GymID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "GymSubscriptionTypeID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "StartDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymSubscriptionPaymentDTO": {
+        "required": [
+          "CurrencyID",
+          "GymSubscriptionID",
+          "PaymentAmount",
+          "PaymentMethodID"
+        ],
+        "type": "object",
+        "properties": {
+          "GymSubscriptionID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "PaymentAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "CurrencyID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "PaymentAmountInCurrentCurrency": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "CurrencyPerDollar": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "PaymentMethodID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Details": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymSubscriptionTypeDTO": {
+        "required": [
+          "GymSubscriptionTypeName",
+          "MonthesCount",
+          "Price"
+        ],
+        "type": "object",
+        "properties": {
+          "GymSubscriptionTypeName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "MonthesCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Price": {
+            "maximum": 65535,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymSubscriptionTypeLimitsDTO": {
+        "required": [
+          "AvailableFitnessTypesCount",
+          "AvailableFitnessTypesSectionsCount",
+          "AvailableTraineesCountByFitnessType"
+        ],
+        "type": "object",
+        "properties": {
+          "AvailableFitnessTypesCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "AvailableTraineesCountByFitnessType": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "AvailableFitnessTypesSectionsCount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymSubscriptionTypeWithLimitsDTO": {
+        "required": [
+          "SubscriptionLimits",
+          "SubscriptionType"
+        ],
+        "type": "object",
+        "properties": {
+          "SubscriptionType": {
+            "$ref": "#/components/schemas/clsInsertGymSubscriptionTypeDTO"
+          },
+          "SubscriptionLimits": {
+            "$ref": "#/components/schemas/clsInsertGymSubscriptionTypeLimitsDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertGymUserOnGenerateGymDTO": {
+        "required": [
+          "LoginRequirements",
+          "PersonID"
+        ],
+        "type": "object",
+        "properties": {
+          "PersonID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "LoginRequirements": {
+            "$ref": "#/components/schemas/clsLoginRequirementsDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsInsertPersonDTO": {
+        "required": [
+          "BirthDate",
+          "FirstName",
+          "Gender",
+          "LastName",
+          "Nationality"
+        ],
+        "type": "object",
+        "properties": {
+          "FirstName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "MiddleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "LastName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "BirthDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "Gender": {
+            "type": "string"
+          },
+          "Nationality": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "NationalNumber": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsLoginRequirementsDTO": {
+        "required": [
+          "Password",
+          "UniqueValue"
+        ],
+        "type": "object",
+        "properties": {
+          "UniqueValue": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsSystemUserLoginRequirementsDTO": {
+        "required": [
+          "Password"
+        ],
+        "type": "object",
+        "properties": {
+          "Email": {
+            "type": "string",
+            "nullable": true
+          },
+          "PhoneNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "Password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "clsTokensDTO": {
+        "type": "object",
+        "properties": {
+          "JWT_Token": {
+            "type": "string",
+            "nullable": true
+          },
+          "Refresh_Token": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

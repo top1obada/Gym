@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomControls\Button\CusomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Button\SpecialButtons\LoginButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Checkbox\CustomCheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Checkbox\SpecialCheckboxes\RememberMeCheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Label\CustomLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Label\TitleLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\MenuStrip\CustomMenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Panel\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Textbox\CustomDisplayTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Textbox\SpecialTextboxes\LoginValueTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\Textbox\SpecialTextboxes\PassswordTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TitledForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\BaseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Login\ctrlLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

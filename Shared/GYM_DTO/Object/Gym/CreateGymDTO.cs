@@ -23,5 +23,7 @@ namespace GYM_DTO.Object.Gym
         [Required(ErrorMessage = "At least one gym fitness type must be provided.")]
         [MinLength(1, ErrorMessage = "At least one gym fitness type must be selected.")]
         public List<int>? GymFitnessTypes { get; set; }
+
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GYM_DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04b416d429b45292b4834ee901f5ad80c631388")]
 [assembly: System.Reflection.AssemblyProductAttribute("GYM_DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GYM_DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

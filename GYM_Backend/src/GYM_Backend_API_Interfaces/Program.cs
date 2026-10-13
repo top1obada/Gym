@@ -2,6 +2,7 @@ using System.Text;
 using Gym_Backend_BusinessTier.Services.FitnessType;
 using Gym_Backend_BusinessTier.Services.Gym;
 using Gym_Backend_BusinessTier.Services.Gym.GymSubscription;
+using Gym_Backend_BusinessTier.Services.Gym.GymSubscription.GymSubscriptionPayment;
 using Gym_Backend_BusinessTier.Services.Login;
 using Gym_Backend_BusinessTier.Services.Login.Session;
 using Gym_Backend_BusinessTier.Services.Person;
@@ -12,15 +13,21 @@ using ProjectsServices.JWTServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = null;
+    });
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<scLoginService>();
+builder.Services.AddScoped<scSystemUserLoginService>();
 
 builder.Services.AddScoped<scSessionService>();
 
-builder.Services.AddScoped<scLoginByRefreshTokenService>();
+builder.Services.AddScoped<scSystemUserLoginByRefreshTokenService>();
 
 builder.Services.AddScoped<scCreateCompletedPersonService>();
 
@@ -31,6 +38,8 @@ builder.Services.AddScoped<scAddFitnessTypeService>();
 
 
 builder.Services.AddScoped<scAddGymSubscriptionService>();
+
+builder.Services.AddScoped<scAddGymSubscriptionPaymentService>();
 
 var jwtConfig = builder.Configuration.GetSection("JwtSettings").Get<clsJWTTemplate>();
 if (jwtConfig == null || string.IsNullOrEmpty(jwtConfig.Key))
@@ -66,6 +75,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 
 app.UseHttpsRedirection();
 app.UseAuthentication();

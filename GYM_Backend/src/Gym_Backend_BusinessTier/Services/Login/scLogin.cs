@@ -10,15 +10,15 @@ using ProjectsServices.PasswordServices;
 
 namespace Gym_Backend_BusinessTier.Services.Login
 {
-    public class scLoginService : 
-        IFindService<clsLoginRequirementsDTO,clsSystemUserLoginRetrivingsDTO?>
+    public class scSystemUserLoginService : 
+        IFindService<clsSystemUserLoginRequirementsDTO,clsSystemUserLoginRetrivingsDTO?>
     {
 
         public async Task<clsSystemUserLoginRetrivingsDTO?> 
-            Find(clsLoginRequirementsDTO SystemUserLoginRequirementsDTO)
+            Find(clsSystemUserLoginRequirementsDTO SystemUserLoginRequirementsDTO)
         {
 
-            var Result = await dbLogin.Login(SystemUserLoginRequirementsDTO.Email,
+            var Result = await dbSystemLogin.SystemUserLogin(SystemUserLoginRequirementsDTO.Email,
                 SystemUserLoginRequirementsDTO.PhoneNumber);
 
             bool RightPassword = clsPasswordEncrypt.VerifyPassword

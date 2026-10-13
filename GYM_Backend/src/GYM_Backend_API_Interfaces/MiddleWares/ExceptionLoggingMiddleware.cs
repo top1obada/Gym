@@ -1,4 +1,7 @@
-﻿namespace Gym_Backend_MiddleWares
+﻿using Microsoft.Data.SqlClient;
+using System.Net;
+
+namespace Gym_Backend_MiddleWares
 {
     public class ExceptionLoggingMiddleware
     {
@@ -15,17 +18,36 @@
         {
             try
             {
-                await _next(context); // تمرير الطلب للـ Middleware التالي
+                await _next(context);
             }
             catch (Exception ex)
             {
-                // تسجيل الاستثناء باستخدام ILogger
                 _logger.LogError(ex, "Unhandled exception occurred on request {Path}", context.Request.Path);
 
-                // إرسال Response موحد للعميل
-                context.Response.StatusCode = 500;
+                var statusCode = (int)HttpStatusCode.InternalServerError;
+                string clientMessage = "An unexpected server error occurred.";
+
+                if (ex is SqlException sqlEx)
+                {
+                    if (sqlEx.Number == 50000)
+                    {
+                        statusCode = (int)HttpStatusCode.BadRequest;
+                        clientMessage = sqlEx.Message;
+                    }
+                    else
+                    {
+                        clientMessage = "A database error occurred while processing your request.";
+                    }
+                }
+
+                context.Response.StatusCode = statusCode;
                 context.Response.ContentType = "application/json";
-                await context.Response.WriteAsJsonAsync(new { Error = "Internal Server Error" });
+
+                await context.Response.WriteAsJsonAsync(new
+                {
+                    success = false,
+                    error = clientMessage
+                });
             }
         }
     }

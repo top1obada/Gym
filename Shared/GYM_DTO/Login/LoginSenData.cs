@@ -16,4 +16,3 @@ namespace GYM_DTO.Login
     }
 
 }
-.

@@ -1,0 +1,12 @@
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.AssemblyInfoInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.AssemblyInfo.cs
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.sourcelink.json
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\bin\Debug\net8.0\GYM_DTO.deps.json
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\bin\Debug\net8.0\GYM_DTO.dll
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\bin\Debug\net8.0\GYM_DTO.pdb
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.dll
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\refint\GYM_DTO.dll
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\GYM_DTO.pdb
+C:\Users\Game On\Desktop\GYM_Project\Shared\GYM_DTO\obj\Debug\net8.0\ref\GYM_DTO.dll

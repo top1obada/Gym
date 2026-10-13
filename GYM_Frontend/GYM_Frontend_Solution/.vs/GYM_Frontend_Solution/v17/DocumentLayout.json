@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\GYM_Frontend_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}|..\\..\\Shared\\Frontend_Projects_Controls\\Frontend_Projects_Controls.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\frontend_projects_controls\\customcontrols\\menustrip\\custommenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}|..\\..\\Shared\\Frontend_Projects_Controls\\Frontend_Projects_Controls.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\frontend_projects_controls\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}|..\\..\\Shared\\Frontend_Projects_Controls\\Frontend_Projects_Controls.csproj|c:\\users\\game on\\desktop\\gym_project\\shared\\frontend_projects_controls\\customcontrols\\menustrip\\custommenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}|..\\src\\GYM_Frontend_UI\\GYM_Frontend_UI.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_frontend\\src\\gym_frontend_ui\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}|..\\src\\GYM_Frontend_UI\\GYM_Frontend_UI.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_frontend\\src\\gym_frontend_ui\\data\\jwt_data\\jwtdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}|..\\src\\GYM_Frontend_UI\\GYM_Frontend_UI.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_frontend\\src\\gym_frontend_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}|..\\src\\GYM_Frontend_UI\\GYM_Frontend_UI.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_frontend\\src\\gym_frontend_ui\\login_ui\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}|..\\src\\GYM_Frontend_UI\\GYM_Frontend_UI.csproj|c:\\users\\game on\\desktop\\gym_project\\gym_frontend\\src\\gym_frontend_ui\\login_ui\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\Forms\\BaseForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\Frontend_Projects_Controls\\Forms\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\Forms\\BaseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Shared\\Frontend_Projects_Controls\\Forms\\BaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:09:17.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMenuStrip.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "RelativeToolTip": "..\\..\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:08:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMenuStrip.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs [Design]",
+              "RelativeToolTip": "..\\..\\Shared\\Frontend_Projects_Controls\\CustomControls\\MenuStrip\\CustomMenuStrip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:08:11.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Data\\JWT_Data\\JWTData.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Frontend_UI\\Data\\JWT_Data\\JWTData.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Data\\JWT_Data\\JWTData.cs",
+              "RelativeToolTip": "..\\src\\GYM_Frontend_UI\\Data\\JWT_Data\\JWTData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T01:12:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Frontend_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Program.cs",
+              "RelativeToolTip": "..\\src\\GYM_Frontend_UI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T01:12:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "RelativeToolTip": "..\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T01:06:37.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs [Design]",
+              "RelativeToolTip": "..\\src\\GYM_Frontend_UI\\Login_UI\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:57:23.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\fMain.cs",
+              "RelativeDocumentMoniker": "..\\src\\GYM_Frontend_UI\\fMain.cs",
+              "ToolTip": "C:\\Users\\Game On\\Desktop\\GYM_Project\\GYM_Frontend\\src\\GYM_Frontend_UI\\fMain.cs [Design]",
+              "RelativeToolTip": "..\\src\\GYM_Frontend_UI\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:57:20.851Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

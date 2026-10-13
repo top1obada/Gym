@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GYM_Backend_API_Interfaces.props" />
+</Project>

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYM_Frontend_UI", "..\src\GYM_Frontend_UI\GYM_Frontend_UI.csproj", "{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYM_Frontend_Controls", "..\src\GYM_Frontend_Controls\GYM_Frontend_Controls.csproj", "{7E1BCED1-0F06-4F74-BE48-B57186DB0B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend_Projects_Controls", "..\..\Shared\Frontend_Projects_Controls\Frontend_Projects_Controls.csproj", "{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYM_DTO", "..\..\Shared\GYM_DTO\GYM_DTO.csproj", "{384AB3C3-5410-472F-82CC-7110FCF2DD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServices", "..\..\Shared\ClientServices\ClientServices.csproj", "{9DC108D9-1B32-4352-9299-F466CF73E9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYM_Frontend_API_Connectivity", "..\src\GYM_Frontend_API_Connectivity\GYM_Frontend_API_Connectivity.csproj", "{029E0A38-EB83-4FC3-8A55-F4A9EB97B6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B3C9A-454A-4F07-A513-70D053A6C7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1BCED1-0F06-4F74-BE48-B57186DB0B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1BCED1-0F06-4F74-BE48-B57186DB0B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1BCED1-0F06-4F74-BE48-B57186DB0B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1BCED1-0F06-4F74-BE48-B57186DB0B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258EDF86-926B-4F2F-ABEC-DC2ABFE1D7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384AB3C3-5410-472F-82CC-7110FCF2DD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384AB3C3-5410-472F-82CC-7110FCF2DD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384AB3C3-5410-472F-82CC-7110FCF2DD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384AB3C3-5410-472F-82CC-7110FCF2DD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC108D9-1B32-4352-9299-F466CF73E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC108D9-1B32-4352-9299-F466CF73E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC108D9-1B32-4352-9299-F466CF73E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC108D9-1B32-4352-9299-F466CF73E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029E0A38-EB83-4FC3-8A55-F4A9EB97B6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029E0A38-EB83-4FC3-8A55-F4A9EB97B6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029E0A38-EB83-4FC3-8A55-F4A9EB97B6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029E0A38-EB83-4FC3-8A55-F4A9EB97B6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

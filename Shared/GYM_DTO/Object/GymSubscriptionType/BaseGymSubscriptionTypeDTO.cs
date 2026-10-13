@@ -17,8 +17,8 @@ namespace GYM_DTO.Object.GymSubscriptionType
         public byte? MonthesCount { get; set; }
 
         [Required(ErrorMessage = "Price is required.")]
-        [Range(0.0, double.MaxValue, ErrorMessage = "Price must be a positive number.")]
-        public decimal? Price { get; set; }
+        [Range(0, ushort.MaxValue, ErrorMessage = "Price must be a positive number.")]
+        public ushort? Price { get; set; }
         
 
     }

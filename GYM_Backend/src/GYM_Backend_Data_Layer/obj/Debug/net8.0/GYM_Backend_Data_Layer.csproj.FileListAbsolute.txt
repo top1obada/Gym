@@ -1,0 +1,16 @@
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\bin\Debug\net8.0\GYM_Backend_Data_Layer.deps.json
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\bin\Debug\net8.0\GYM_Backend_Data_Layer.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\bin\Debug\net8.0\GYM_Backend_Data_Layer.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\bin\Debug\net8.0\GYM_DTO.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\bin\Debug\net8.0\GYM_DTO.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.csproj.AssemblyReference.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.AssemblyInfoInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.AssemblyInfo.cs
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.sourcelink.json
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Back.E6B026D7.Up2Date
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\refint\GYM_Backend_Data_Layer.dll
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\GYM_Backend_Data_Layer.pdb
+C:\Users\Game On\Desktop\GYM_Project\GYM_Backend\src\GYM_Backend_Data_Layer\obj\Debug\net8.0\ref\GYM_Backend_Data_Layer.dll
